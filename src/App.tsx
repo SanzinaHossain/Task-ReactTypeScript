@@ -2,7 +2,7 @@
 function App() {
   return (
     <div>
-     <h1>TypeScript Learning</h1>
+     <h1>TypeScript Learnin</h1>
     </div>
   );
 }
